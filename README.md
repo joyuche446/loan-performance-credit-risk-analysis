@@ -1,6 +1,14 @@
 # Loan Performance & Credit Risk Analysis | Excel Dashboard & KPI Insights
-## Executive Summary:
+## Project Overview:
+This project analyzes loan performance and credit risk using a simulated real-world lending dataset. The goal is to understand portfolio health, borrower behavior, and key financial trends.
+The same analysis was carried out using Excel, SQL, and Tableau to show consistency in results across different tools.
+Excel was used for initial exploration and building dashboards. SQL was used to clean the data and calculate key metrics like loan performance, funding, and repayment trends. Tableau was then used to create interactive dashboards for visual analysis of risk, performance, and trends over time.
+Across all tools, key metrics such as loan applications, funded amount, repayment behavior, interest rates, and debt-to-income (DTI) were analyzed to understand overall loan portfolio performance.
 ## Business Problem:
+Banks need to balance loan growth with credit risk. While approving more loans increases revenue, it also raises the risk of defaults and financial losses.
+The challenge is to understand loan performance, identify risky borrowers, and improve lending decisions to maintain a healthy and profitable loan portfolio.
+
+
 
 ## Data Overview:
 Records: 38,600
