@@ -30,7 +30,7 @@ Annual Income – Borrower’s reported income
 ## Methodology:
 * Data was cleaned and standardized using SQL and Excel, including date conversion, duplicate checks, and data validation.
 * Exploratory analysis was performed using SQL queries and Excel pivot tables to identify trends and key relationships.
-* Feature engineering was applied to create KPIs, time-based metrics (MTD, MoM), and loan risk classifications.
+* Feature engineering of calculated fields was applied to create KPIs, time-based metrics (MTD, MoM), and loan risk classifications.
 * Final insights were visualized through interactive dashboards in Excel and Tableau, with results validated across all tools for consistency.
 ## Key Calculations & Metrics:
 ## Dashboard:
