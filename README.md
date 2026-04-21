@@ -43,11 +43,15 @@ Annual Income – Borrower’s reported income
 ## Dashboard:
 The project includes Excel and Tableau dashboards built on the same dataset with identical KPIs.
 Each tool contains 3 views:
+
 Summary: Key KPIs (applications, funding, repayments, risk)
+
 Overview: Trends and borrower segmentation
+
 Details: Loan-level breakdown and filtering
 
 Tableau: Interactive analysis with drill-downs
+
 Excel: Pivot-based KPI reporting and validation
 
 Both dashboards deliver the same insights with different levels of interactivity.
