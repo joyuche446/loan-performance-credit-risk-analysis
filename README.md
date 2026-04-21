@@ -28,11 +28,10 @@ Grade / Risk Category – Credit risk classification
 
 Annual Income – Borrower’s reported income
 ## Methodology:
-Cleaned and structured loan data by handling duplicates, missing values, and formatting inconsistencies
-Engineered features including loan classification and time-based trends
-Conducted exploratory data analysis to identify patterns and high-risk segments
-Developed key KPIs to evaluate loan performance and credit risk
-Built an interactive Excel dashboard using Pivot Tables, charts, and slicers for insight delivery
+* Data was cleaned and standardized using SQL and Excel, including date conversion, duplicate checks, and data validation.
+* Exploratory analysis was performed using SQL queries and Excel pivot tables to identify trends and key relationships.
+* Feature engineering was applied to create KPIs, time-based metrics (MTD, MoM), and loan risk classifications.
+* Final insights were visualized through interactive dashboards in Excel and Tableau, with results validated across all tools for consistency.
 ## Key Calculations & Metrics:
 ## Dashboard:
 ## Skills:
