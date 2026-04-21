@@ -33,6 +33,13 @@ Annual Income – Borrower’s reported income
 * Feature engineering of calculated fields was applied to create KPIs, time-based metrics (MTD, MoM), and loan risk classifications.
 * Final insights were visualized through interactive dashboards in Excel and Tableau, with results validated across all tools for consistency.
 ## Key Calculations & Metrics:
+* **Total Loan Applications:** Measures overall lending activity by counting unique loan records.
+* **Total Funded Amount:** Represents total capital disbursed to borrowers across all approved loans.
+* **Total Amount Received:** Captures total repayments received, reflecting cash flow performance.
+* **Average Interest Rate:** Indicates the average cost of borrowing across the portfolio.
+* **Average Debt-to-Income (DTI) Ratio:** Evaluates borrower financial stability and repayment capacity.
+* **Month-to-Date (MTD) Metrics:** Tracks performance (applications, funding, repayments) within the selected month for real-time monitoring.
+* **Month-over-Month (MoM) Growth:** Measures percentage change in key metrics compared to the previous month to assess performance trends.
 ## Dashboard:
 ## Skills:
 Data cleaning (handling missing values, duplicates and formatting inconsistencies)
