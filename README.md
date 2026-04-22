@@ -63,6 +63,7 @@ Both dashboards deliver the same insights with different levels of interactivity
 * KPI calculations and Financial metrics development
 * Dashboard development & data visualization
 * Slicers for interactive dashboard filtering
+* SQL JOINS, Aggregation functions, filtering, CTEs and CASE statement for complex data analysis
 ## Key Insights & Recommendations:
 * Analyzed 38.6K loan applications
 * 86.2% good loans generated $65.3M revenue
