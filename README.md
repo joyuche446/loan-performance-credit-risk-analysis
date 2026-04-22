@@ -56,13 +56,13 @@ Excel: Pivot-based KPI reporting and validation
 
 Both dashboards deliver the same insights with different levels of interactivity.
 ## Skills:
-Data cleaning (handling missing values, duplicates and formatting inconsistencies)
-Data transformation using Conditional Logic and Date/Time functions.
-Pivot Tables for data summarization and analysis
-Pivot charts for visual insights
-Slicers for interactive dashboard filtering
-KPI calculations and performance metrics development
-Dashboard creation and data visualization
+* Data cleaning, validation & quality assessment (handling missing values, duplicates and formatting inconsistencies)
+* Data transformation using Conditional Logic and Date/Time functions.
+* Pivot Tables and Charts(data summarization, analysis & visual insights)
+* Feature Engineering(Categorical fields & Time-based variables)
+* KPI calculations and Financial metrics development
+* Dashboard development & data visualization
+* Slicers for interactive dashboard filtering
 ## Key Insights & Recommendations:
 * Analyzed 38.6K loan applications
 * 86.2% good loans generated $65.3M revenue
