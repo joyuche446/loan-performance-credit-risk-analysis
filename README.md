@@ -80,3 +80,7 @@ To improve loan performance and mitigate risk, the following actions are recomme
 * Enhance collections and loan restructuring processes to improve recovery of non-performing loans
 * Increase focus on low-risk borrowers to sustain and grow profitability
 * Align capital allocation and operational resources with the rising demand for loans
+## Next Steps:
+* Integrate additional variables such as income level, credit score, and employment history for deeper risk analysis
+* Apply machine learning models to improve default prediction performance
+* Validate results using external or larger datasets to ensure model robustness
