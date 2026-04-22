@@ -63,3 +63,20 @@ Pivot charts for visual insights
 Slicers for interactive dashboard filtering
 KPI calculations and performance metrics development
 Dashboard creation and data visualization
+## Key Insights & Recommendations:
+* Analyzed 38.6K loan applications
+* 86.2% good loans generated $65.3M revenue
+* 13.8% bad loans led to $28.2M losses, indicating credit risk
+* Portfolio remains profitable (amount received > funded amount)
+* Steady monthly growth in loan applications
+* Credit cards are the most common loan purpose
+* Borrowers with 10+ years employment take the highest loans
+
+To improve loan performance and mitigate risk, the following actions are recommended:
+* Strengthen underwriting criteria to better screen high-risk applicants and reduce default rates
+* Implement risk-based pricing strategies, adjusting interest rates according to borrower risk profiles
+* Continuously monitor repayment behavior to identify early signs of potential default
+* Apply tighter controls on high-risk segments contributing most to loan defaults
+* Enhance collections and loan restructuring processes to improve recovery of non-performing loans
+* Increase focus on low-risk borrowers to sustain and grow profitability
+* Align capital allocation and operational resources with the rising demand for loans
