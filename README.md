@@ -56,7 +56,7 @@ Excel: Pivot-based KPI reporting and validation
 
 Both dashboards deliver the same insights with different levels of interactivity.
 This project includes multiple dashboards built in Excel and Tableau to explore loan performance, risk distribution, and borrower behavior.
-Full set of dashboards available in the repository `/images` folder.
+Full set of dashboards available in the repository [`/images` folder.](https://github.com/joyuche446/loan-performance-credit-risk-analysis/tree/main/images)
 ## Skills:
 * Data cleaning, validation & quality assessment (handling missing values, duplicates and formatting inconsistencies)
 * Data transformation using Conditional Logic and Date/Time functions.
