@@ -11,5 +11,5 @@ GROUP BY
 home_ownership
 ORDER BY home_ownership ASC;
 
-SELECT * FROM financial_Loan
+
 
