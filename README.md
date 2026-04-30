@@ -28,6 +28,8 @@ Records: 38,600
 ### Summary Dashboard  
 Key KPIs including loan applications, funding, repayments, and risk overview.
 ![Summary Dashboard](images/tableau/summary_dashboard.png)
+### Overview Dashboard  
+Shows trends and borrower segmentation over time.
 ![Overview Dashboard](images/tableau/overview_dashboard.png)
 ![Details Dashboard](images/tableau/details_dashboard.png)
 [View Excel Dashboards][(./excel_dashboards/)](https://github.com/joyuche446/loan-performance-credit-risk-analysis/tree/main/images/excel)
