@@ -16,14 +16,31 @@ Records: 38,600
 * Exploratory analysis was performed using SQL queries and Excel pivot tables to identify trends and relationships.
 * Feature engineering was applied to create KPIs, time-based metrics (MTD, MoM), and loan risk classifications.
 * Insights were visualized using Excel and Tableau dashboards.
-## Key Calculations & Metrics:
-* **Total Loan Applications:** Measures overall lending activity by counting unique loan records.
-* **Total Funded Amount:** Represents total capital disbursed to borrowers across all approved loans.
-* **Total Amount Received:** Captures total repayments received, reflecting cash flow performance.
-* **Average Interest Rate:** Indicates the average cost of borrowing across the portfolio.
-* **Average Debt-to-Income (DTI) Ratio:** Evaluates borrower financial stability and repayment capacity.
-* **Month-to-Date (MTD) Metrics:** Tracks performance (applications, funding, repayments) within the selected month for real-time monitoring.
-* **Month-over-Month (MoM) Growth:** Measures percentage change in key metrics compared to the previous month to assess performance trends.
+## Key Calculations:
+Calculations & Feature Engineering (Excel & Tableau)
+
+Created derived fields to support analysis:
+
+1. Loan Classification (Good vs Bad Loan):
+
+=IF(OR([@[Loan_Status]]="Fully Paid",[@[Loan_Status]]="Current"),"Good Loan",
+IF([@[Loan_Status]]="Charged Off","Bad Loan"))
+IF [Loan Status] = "Fully Paid" OR [Loan Status] = "Current" THEN "Good Loan"
+ELSEIF [Loan Status] = "Charged Off" THEN "Bad Loan"
+END
+
+2. Month Extraction (Time Analysis):
+
+Excel: =TEXT([@Issue_Date],"mmm")
+Tableau: DATENAME('month', [Issue Date])
+
+3. MTD Logic (Tableau):
+
+IF MONTH([Date Field]) = [Selected Month]
+AND YEAR([Date Field]) = [Selected Year]
+THEN [Measure]
+END
+
 ## Dashboard:
 ### Summary Dashboard  
 Key KPIs including loan applications, funding, repayments, and risk overview.
