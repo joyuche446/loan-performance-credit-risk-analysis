@@ -7,7 +7,7 @@ The analysis was conducted using Excel, SQL, and Tableau for data exploration, c
 Banks need to balance loan growth with credit risk. While approving more loans increases revenue, it also raises the risk of defaults and financial losses.
 The challenge is to understand loan performance, identify risky borrowers, and improve lending decisions to maintain a healthy and profitable loan portfolio.
 ## Data Overview:
-**Records:** 38,600 | Fields: 20+ (loan & borrower attributes)
+**Records:** 38,600 | **Fields:** 20+ (loan & borrower attributes)
 
 **Key variables:** Loan Amount, Interest Rate, Loan Status (paid/default), Issue Date, Term, Grade (risk), Annual Income
 Records: 38,600
