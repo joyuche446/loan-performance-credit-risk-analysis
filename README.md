@@ -27,7 +27,7 @@ Records: 38,600
 ## Dashboard:
 ### Summary Dashboard  
 Key KPIs including loan applications, funding, repayments, and risk overview.
-![Summary Dashboard](images/tableau/summary_dashboard.png)
+![Summary Dashboard](images/tableau/summary_dashborad.png)
 ### Overview Dashboard  
 Shows trends and borrower segmentation.
 ![Overview Dashboard](images/tableau/overview_dashboard.png)
