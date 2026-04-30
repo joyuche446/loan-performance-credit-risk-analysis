@@ -52,9 +52,10 @@ Full set of dashboards available in the repository [`/images` folder.](https://g
 * 86.2% good loans generated $65.3M revenue, while 13.8% bad loans caused $28.2M losses
 * Portfolio is profitable (amount received > funded) with steady monthly growth
 * Credit cards are the most common loan purpose; borrowers with 10+ years employment take the highest loans
-Recommendations:
 
--Strengthen underwriting to reduce high-risk approvals
+**Recommendations:**
+
+- Strengthen underwriting to reduce high-risk approvals
 -Monitor repayment behavior for early default detection
 -Improve collections and loan recovery processes
 -Focus on low-risk borrowers to sustain profitability
