@@ -7,25 +7,9 @@ The analysis was conducted using Excel, SQL, and Tableau for data exploration, c
 Banks need to balance loan growth with credit risk. While approving more loans increases revenue, it also raises the risk of defaults and financial losses.
 The challenge is to understand loan performance, identify risky borrowers, and improve lending decisions to maintain a healthy and profitable loan portfolio.
 ## Data Overview:
+Records: 38,600 | Fields: 20+ (loan & borrower attributes)
+Key variables: Loan Amount, Interest Rate, Loan Status (paid/default), Issue Date, Term, Grade (risk), Annual Income
 Records: 38,600
-
-Fields: 20+ columns (loan and borrower attributes)
-
-**Key Variables:**
-
-Loan Amount – Total amount issued to the borrower
-
-Interest Rate – Rate applied to each loan
-
-Loan Status – Indicates whether the loan is fully paid or defaulted
-
-Issue Date – Date the loan was issued
-
-Term – Duration of the loan
-
-Grade / Risk Category – Credit risk classification
-
-Annual Income – Borrower’s reported income
 ## Methodology:
 * Data was cleaned and standardized using SQL and Excel, including date conversion, duplicate checks, and data validation.
 * Exploratory analysis was performed using SQL queries and Excel pivot tables to identify trends and key relationships.
