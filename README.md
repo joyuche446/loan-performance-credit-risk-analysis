@@ -25,6 +25,8 @@ Records: 38,600
 * **Month-to-Date (MTD) Metrics:** Tracks performance (applications, funding, repayments) within the selected month for real-time monitoring.
 * **Month-over-Month (MoM) Growth:** Measures percentage change in key metrics compared to the previous month to assess performance trends.
 ## Dashboard:
+### Summary Dashboard  
+Key KPIs including loan applications, funding, repayments, and risk overview.
 ![Summary Dashboard](images/tableau/summary_dashboard.png)
 ![Overview Dashboard](images/tableau/overview_dashboard.png)
 ![Details Dashboard](images/tableau/details_dashboard.png)
