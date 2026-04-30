@@ -49,13 +49,9 @@ Full set of dashboards available in the repository [`/images` folder.](https://g
 * KPI and financial metrics development
 * SQL (joins, aggregations, filtering, CTEs, CASE statements for analysis)
 ## Key Insights & Recommendations:
-* Analyzed 38.6K loan applications
-* 86.2% good loans generated $65.3M revenue
-* 13.8% bad loans led to $28.2M losses, indicating credit risk
-* Portfolio remains profitable (amount received > funded amount)
-* Steady monthly growth in loan applications
-* Credit cards are the most common loan purpose
-* Borrowers with 10+ years employment take the highest loans
+* 86.2% good loans generated $65.3M revenue, while 13.8% bad loans caused $28.2M losses
+* Portfolio is profitable (amount received > funded) with steady monthly growth
+* Credit cards are the most common loan purpose; borrowers with 10+ years employment take the highest loans
 
 To improve loan performance and mitigate risk, the following actions are recommended:
 * Strengthen underwriting criteria to better screen high-risk applicants and reduce default rates
