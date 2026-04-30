@@ -42,13 +42,12 @@ Both dashboards deliver the same insights with different levels of interactivity
 This project includes multiple dashboards built in Excel and Tableau to explore loan performance, risk distribution, and borrower behavior.
 Full set of dashboards available in the repository [`/images` folder.](https://github.com/joyuche446/loan-performance-credit-risk-analysis/tree/main/images)
 ## Skills:
-* Data cleaning, validation & quality assessment (handling missing values, duplicates and formatting inconsistencies)
-* Data transformation using Conditional Logic and Date/Time functions.
-* Pivot Tables and Charts for data summarization, analysis & visual insights
-* Feature Engineering(Categorical fields & Time-based variables)
-* KPI calculations and Financial metrics development
-* Dashboard development & data visualization(including slicers for interactive filtering)
-* SQL (JOINS, Aggregation functions, filtering, CTEs and CASE statement for complex data analysis)
+* Data cleaning, validation & quality assessment (missing values, duplicates, formatting issues)
+* Data transformation using conditional logic and date/time functions
+* Pivot tables, charts & dashboard development for data analysis and visualization (including slicers)
+* Feature engineering (categorical fields and time-based variables)
+* KPI and financial metrics development
+* SQL (joins, aggregations, filtering, CTEs, CASE statements for analysis)
 ## Key Insights & Recommendations:
 * Analyzed 38.6K loan applications
 * 86.2% good loans generated $65.3M revenue
