@@ -56,9 +56,9 @@ Full set of dashboards available in the repository [`/images` folder.](https://g
 **Recommendations:**
 
 - Strengthen underwriting to reduce high-risk approvals
--Monitor repayment behavior for early default detection
--Improve collections and loan recovery processes
--Focus on low-risk borrowers to sustain profitability
+- Monitor repayment behavior for early default detection
+- Improve collections and loan recovery processes
+- Focus on low-risk borrowers to sustain profitability
 ## Next Steps:
 * Integrate additional variables such as income level, credit score, and employment history for deeper risk analysis
 * Apply machine learning models to improve default prediction performance
