@@ -12,10 +12,10 @@ The challenge is to understand loan performance, identify risky borrowers, and i
 **Key variables:** Loan Amount, Interest Rate, Loan Status (paid/default), Issue Date, Term, Grade (risk), Annual Income
 Records: 38,600
 ## Methodology:
-* Data was cleaned and standardized using SQL and Excel, including date conversion, duplicate checks, and data validation.
-* Exploratory analysis was performed using SQL queries and Excel pivot tables to identify trends and key relationships.
-* Feature engineering of calculated fields was applied to create KPIs, time-based metrics (MTD, MoM), and loan risk classifications.
-* Final insights were visualized through interactive dashboards in Excel and Tableau, with results validated across all tools for consistency.
+* Data was cleaned and standardized using SQL and Excel, including date conversion, duplicate checks, and validation.
+* Exploratory analysis was performed using SQL queries and Excel pivot tables to identify trends and relationships.
+* Feature engineering was applied to create KPIs, time-based metrics (MTD, MoM), and loan risk classifications.
+* Insights were visualized using Excel and Tableau dashboards.
 ## Key Calculations & Metrics:
 * **Total Loan Applications:** Measures overall lending activity by counting unique loan records.
 * **Total Funded Amount:** Represents total capital disbursed to borrowers across all approved loans.
