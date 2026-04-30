@@ -28,6 +28,7 @@ Records: 38,600
 ![Summary Dashboard](images/tableau/summary_dashboard.png)
 ![Overview Dashboard](images/tableau/overview_dashboard.png)
 ![Details Dashboard](images/tableau/details_dashboard.png)
+[View Excel Dashboards](./excel_dashboards/)
 ## Skills:
 * Data cleaning, validation & quality assessment (missing values, duplicates, formatting issues)
 * Data transformation using conditional logic and date/time functions
