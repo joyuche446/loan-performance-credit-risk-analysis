@@ -2,7 +2,7 @@
 ## Project Overview:
 This project analyzes loan performance and credit risk using a simulated real-world lending dataset to understand portfolio health, borrower behavior, and financial trends.
 It focuses on evaluating key metrics such as loan applications, funded amount, received amount, interest rates, and debt-to-income (DTI) to assess overall portfolio performance.
-The analysis was conducted using Excel, SQL, and Tableau for data exploration, cleaning, and interactive visualization.
+The analysis was conducted using Excel, SQL, and Tableau for data exploration, cleaning, and visualization.
 ## Business Problem:
 Banks need to balance loan growth with credit risk. While approving more loans increases revenue, it also raises the risk of defaults and financial losses.
 The challenge is to understand loan performance, identify risky borrowers, and improve lending decisions to maintain a healthy and profitable loan portfolio.
