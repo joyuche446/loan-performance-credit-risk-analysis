@@ -25,22 +25,7 @@ Records: 38,600
 * **Month-to-Date (MTD) Metrics:** Tracks performance (applications, funding, repayments) within the selected month for real-time monitoring.
 * **Month-over-Month (MoM) Growth:** Measures percentage change in key metrics compared to the previous month to assess performance trends.
 ## Dashboard:
-The project includes Excel and Tableau dashboards built on the same dataset with identical KPIs.
-Each tool contains 3 views:
-
-Summary: Key KPIs (applications, funding, repayments, risk)
-
-Overview: Trends and borrower segmentation
-
-Details: Loan-level breakdown and filtering
-
-Tableau: Interactive analysis with drill-downs
-
-Excel: Pivot-based KPI reporting and validation
-
-Both dashboards deliver the same insights with different levels of interactivity.
-This project includes multiple dashboards built in Excel and Tableau to explore loan performance, risk distribution, and borrower behavior.
-Full set of dashboards available in the repository [`/images` folder.](https://github.com/joyuche446/loan-performance-credit-risk-analysis/tree/main/images)
+![Summary Dashboard](images/tableau/summary_dashboard.png)
 ## Skills:
 * Data cleaning, validation & quality assessment (missing values, duplicates, formatting issues)
 * Data transformation using conditional logic and date/time functions
