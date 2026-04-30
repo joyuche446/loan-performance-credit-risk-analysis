@@ -21,22 +21,24 @@ Calculations & Feature Engineering (Excel & Tableau)
 
 Created derived fields to support analysis:
 
-1. Loan Classification (Good vs Bad Loan):
+1. **Loan Classification (Good vs Bad Loan):**
 
-=IF(OR([@[Loan_Status]]="Fully Paid",[@[Loan_Status]]="Current"),"Good Loan",
+**Excel:** =IF(OR([@[Loan_Status]]="Fully Paid",[@[Loan_Status]]="Current"),"Good Loan",
 IF([@[Loan_Status]]="Charged Off","Bad Loan"))
-IF [Loan Status] = "Fully Paid" OR [Loan Status] = "Current" THEN "Good Loan"
+
+**Tableau:** = IF [Loan Status] = "Fully Paid" OR [Loan Status] = "Current" THEN "Good Loan"
 ELSEIF [Loan Status] = "Charged Off" THEN "Bad Loan"
 END
 
-2. Month Extraction (Time Analysis):
+2. **Month Extraction (Time Analysis):**
 
-Excel: =TEXT([@Issue_Date],"mmm")
-Tableau: DATENAME('month', [Issue Date])
+**Excel:** =TEXT([@Issue_Date],"mmm")
 
-3. MTD Logic (Tableau):
+**Tableau:** DATENAME('month', [Issue Date])
 
-IF MONTH([Date Field]) = [Selected Month]
+3. **MTD Logic (Tableau):**
+
+**Tableau:** = IF MONTH([Date Field]) = [Selected Month]
 AND YEAR([Date Field]) = [Selected Year]
 THEN [Measure]
 END
